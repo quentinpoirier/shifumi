@@ -1,0 +1,23 @@
+.shifumi {
+    padding: 5rem;
+}
+
+.input-group-lg {
+    display: inline-flex;
+    border-radius: 0.2rem;
+}
+
+p {
+    width: 21%;
+    border: solid 2px black;
+    border-radius: 0.2rem;
+    padding: 5px;
+}
+
+.result {
+    background-color: #17a2b8;
+    width: 21%;
+    border: none;
+    border-radius: 0.2rem;
+    color: white;
+}
